@@ -1,1 +1,1 @@
-include ':app', ':rxmaps', ':rxmaps-kotlin'
+include ':samples', ':rxmaps', ':rxmaps-kotlin'
